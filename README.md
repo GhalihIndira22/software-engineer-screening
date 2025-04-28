@@ -1,8 +1,7 @@
 # YouTube Event Simulation - Screening Test
 
 ## Deskripsi
-Simulasi sederhana untuk meniru perilaku user dalam menonton video di platform seperti YouTube. User memilih video dan menekan tombol play. Apabila user tidak melakukan action selama 10 detik, dianggap user mengirimkan event `Continue`. Apabila user menonton durasi video sampai selesai, user mengirimkan event `Stop` di akhir video
-Selain itu setiap user dapat mengirimkan event berikut:
+Simulasi sederhana untuk meniru perilaku user dalam menonton video di platform seperti YouTube. User memilih video dan menekan tombol play. Apabila user tidak melakukan action selama 10 detik, dianggap user mengirimkan event `Continue`. Apabila user menonton durasi video sampai selesai, user mengirimkan event `Stop` di akhir video. Selain itu setiap user dapat mengirimkan event berikut:
 - Pause
 - Forward
 - Back
@@ -12,7 +11,7 @@ Event yang dikirim oleh user akan diproses oleh server. 1 User bisa menonton vid
 ## Requirements
 
 1. **Command/Event Handling**  
-   Setiap event (`Pause`, `Continue`, `Forward`, `Back`) harus diimplementasikan menggunakan design pattern.
+   Setiap event (`Pause`, `Continue`, `Forward`, `Back`) harus diimplementasikan dengan design yang mudah dimaintain.
 
 2. **Scalability**  
    Sistem harus dapat menangani banyak user secara bersamaan.
