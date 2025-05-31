@@ -1,4 +1,4 @@
-package com.galih.software.engineer.screening;
+package com.bankmas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

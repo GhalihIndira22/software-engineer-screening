@@ -1,4 +1,4 @@
-package com.galih.software.engineer.screening.scaling;
+package com.bankmas.scaling;
 
 import com.sun.management.OperatingSystemMXBean;
 import lombok.extern.slf4j.Slf4j;

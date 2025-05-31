@@ -1,4 +1,4 @@
-package com.galih.software.engineer.screening.services;
+package com.bankmas.services;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

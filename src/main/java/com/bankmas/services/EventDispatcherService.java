@@ -1,6 +1,6 @@
-package com.galih.software.engineer.screening.services;
+package com.bankmas.services;
 
-import com.galih.software.engineer.screening.event.*;
+import com.bankmas.event.VideoEventHandler;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

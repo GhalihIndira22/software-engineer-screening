@@ -1,4 +1,4 @@
-package com.galih.software.engineer.screening.event;
+package com.bankmas.event;
 
 public interface VideoEventHandler {
 

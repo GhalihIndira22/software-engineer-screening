@@ -1,7 +1,7 @@
-package com.galih.software.engineer.screening.controllers;
+package com.bankmas.controllers;
 
-import com.galih.software.engineer.screening.dtos.AddUsersRequestDto;
-import com.galih.software.engineer.screening.services.UserService;
+import com.bankmas.dtos.AddUsersRequestDto;
+import com.bankmas.services.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

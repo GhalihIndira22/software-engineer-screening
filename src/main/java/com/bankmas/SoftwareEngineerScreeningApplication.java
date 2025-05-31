@@ -1,4 +1,4 @@
-package com.galih.software.engineer.screening;
+package com.bankmas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

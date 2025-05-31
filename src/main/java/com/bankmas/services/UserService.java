@@ -1,6 +1,6 @@
-package com.galih.software.engineer.screening.services;
+package com.bankmas.services;
 
-import com.galih.software.engineer.screening.scaling.ScalingManager;
+import com.bankmas.scaling.ScalingManager;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

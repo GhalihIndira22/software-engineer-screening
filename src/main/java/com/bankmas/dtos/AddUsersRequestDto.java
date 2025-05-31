@@ -1,4 +1,4 @@
-package com.galih.software.engineer.screening.dtos;
+package com.bankmas.dtos;
 
 import lombok.Data;
 
